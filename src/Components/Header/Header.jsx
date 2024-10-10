@@ -9,7 +9,7 @@ import Logo2 from "../../assets/Logo2.png";
 import phoneIcon from "../../assets/icons/phone.png";
 import emailIcon from "../../assets/icons/email.png";
 import helpIcon from "../../assets/icons/help.png";
-import supportIcon from "../../assets/icons/support.png";
+import supportIcon from "../../assets/icons/support.png"; 
 
 const Header = () => {
   return (
