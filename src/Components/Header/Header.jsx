@@ -96,7 +96,7 @@ const Header = () => {
               <ul className="flex items-center gap-4">
                 <li className="relative">
                   <div className="cursor-pointer">
-                    <div className="flex flex-col items-center gap-3  hover:bg-[#bd4110]  group hover:!text-white-a700">
+                    <div className="flex flex-col items-center gap-3  hover:bg-[#dc581d]  group hover:!text-white-a700">
                       <Link to="/" className=" text-[14px] mt-4  px-2">
                         Home
                       </Link>
@@ -106,11 +106,11 @@ const Header = () => {
                 </li>
                 <li className="relative">
                   <div className="cursor-pointer">
-                    <div className="flex flex-col items-center gap-3  hover:bg-[#bd4110]  group hover:!text-white-a700">
+                    <div className="flex flex-col items-center gap-3  hover:bg-[#dc581d]  group hover:!text-white-a700">
                       <p className=" text-[14px] mt-4  px-2">Brazing</p>
-                      <div className="group-hover:block hidden absolute text-[white] w-fit px-2 py-1 rounded-[0px_8px_8px_8px] top-full bg-[#bd4110] left-0 z-10">
+                      <div className="group-hover:block hidden absolute text-[white] w-fit px-2 py-1 rounded-[0px_8px_8px_8px] top-full bg-[#dc581d] left-0 z-10">
                         <ul className=" fi">
-                          <li className="hover:bg-[#972b00] ">
+                          <li className="hover:bg-[#be4f23] ">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -118,7 +118,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -126,7 +126,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -134,16 +134,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
-                            <Link
-                              to="/product"
-                              className="text-nowrap block py-2 px-2 !text-sm font-normal"
-                            >
-                              PhosCopper Brazing Alloys
-                            </Link>
-                          </li>
-
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -152,7 +143,16 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
+                            <Link
+                              to="/product"
+                              className="text-nowrap block py-2 px-2 !text-sm font-normal"
+                            >
+                              PhosCopper Brazing Alloys
+                            </Link>
+                          </li>
+
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -161,7 +161,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -170,7 +170,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -179,7 +179,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -188,7 +188,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -197,7 +197,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -206,7 +206,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -215,7 +215,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -231,11 +231,11 @@ const Header = () => {
                 </li>
                 <li className="relative">
                   <div className="cursor-pointer">
-                    <div className="flex flex-col items-center gap-3  hover:bg-[#bd4110] group hover:!text-white-a700">
+                    <div className="flex flex-col items-center gap-3  hover:bg-[#dc581d] group hover:!text-white-a700">
                       <p className=" text-[14px] mt-4  px-2">Copper</p>
-                      <div className="group-hover:block hidden absolute text-[white] w-fit px-2 py-1 rounded-[0px_8px_8px_8px] top-full bg-[#bd4110] left-0 z-10">
+                      <div className="group-hover:block hidden absolute text-[white] w-fit px-2 py-1 rounded-[0px_8px_8px_8px] top-full bg-[#dc581d] left-0 z-10">
                         <ul className=" fi">
-                          <li className="hover:bg-[#972b00] ">
+                          <li className="hover:bg-[#be4f23] ">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -243,7 +243,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -251,7 +251,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -259,16 +259,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
-                            <Link
-                              to="/product"
-                              className="text-nowrap block py-2 px-2 !text-sm font-normal"
-                            >
-                              PhosCopper Brazing Alloys
-                            </Link>
-                          </li>
-
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -277,7 +268,16 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
+                            <Link
+                              to="/product"
+                              className="text-nowrap block py-2 px-2 !text-sm font-normal"
+                            >
+                              PhosCopper Brazing Alloys
+                            </Link>
+                          </li>
+
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -286,7 +286,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -295,7 +295,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -304,7 +304,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -313,7 +313,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -322,7 +322,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -331,7 +331,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -340,7 +340,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -356,11 +356,11 @@ const Header = () => {
                 </li>
                 <li className="relative">
                   <div className="cursor-pointer">
-                    <div className="flex flex-col items-center gap-3  hover:bg-[#bd4110] group hover:!text-white-a700">
+                    <div className="flex flex-col items-center gap-3  hover:bg-[#dc581d] group hover:!text-white-a700">
                       <p className=" text-[14px] mt-4  px-2">Welding</p>
-                      <div className="group-hover:block hidden absolute text-[white] w-fit px-2 py-1 rounded-[0px_8px_8px_8px] top-full bg-[#bd4110] left-0 z-10">
+                      <div className="group-hover:block hidden absolute text-[white] w-fit px-2 py-1 rounded-[0px_8px_8px_8px] top-full bg-[#dc581d] left-0 z-10">
                         <ul className=" fi">
-                          <li className="hover:bg-[#972b00] ">
+                          <li className="hover:bg-[#be4f23] ">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -368,7 +368,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -376,7 +376,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -384,16 +384,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
-                            <Link
-                              to="/product"
-                              className="text-nowrap block py-2 px-2 !text-sm font-normal"
-                            >
-                              PhosCopper Brazing Alloys
-                            </Link>
-                          </li>
-
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -402,7 +393,16 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
+                            <Link
+                              to="/product"
+                              className="text-nowrap block py-2 px-2 !text-sm font-normal"
+                            >
+                              PhosCopper Brazing Alloys
+                            </Link>
+                          </li>
+
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -411,7 +411,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -420,7 +420,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -429,7 +429,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -438,7 +438,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -447,7 +447,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -456,7 +456,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -465,7 +465,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -481,11 +481,11 @@ const Header = () => {
                 </li>
                 <li className="relative">
                   <div className="cursor-pointer">
-                    <div className="flex flex-col items-center gap-3  hover:bg-[#bd4110] group hover:!text-white-a700">
+                    <div className="flex flex-col items-center gap-3  hover:bg-[#dc581d] group hover:!text-white-a700">
                       <p className=" text-[14px] mt-4  px-2">Metallizing</p>
-                      <div className="group-hover:block hidden absolute text-[white] w-fit px-2 py-1 rounded-[0px_8px_8px_8px] top-full bg-[#bd4110] left-0 z-10">
+                      <div className="group-hover:block hidden absolute text-[white] w-fit px-2 py-1 rounded-[0px_8px_8px_8px] top-full bg-[#dc581d] left-0 z-10">
                         <ul className=" fi">
-                          <li className="hover:bg-[#972b00] ">
+                          <li className="hover:bg-[#be4f23] ">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -493,7 +493,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -501,7 +501,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -509,16 +509,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
-                            <Link
-                              to="/product"
-                              className="text-nowrap block py-2 px-2 !text-sm font-normal"
-                            >
-                              PhosCopper Brazing Alloys
-                            </Link>
-                          </li>
-
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -527,7 +518,16 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
+                            <Link
+                              to="/product"
+                              className="text-nowrap block py-2 px-2 !text-sm font-normal"
+                            >
+                              PhosCopper Brazing Alloys
+                            </Link>
+                          </li>
+
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -536,7 +536,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -545,7 +545,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -554,7 +554,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -563,7 +563,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -572,7 +572,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -581,7 +581,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -590,7 +590,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -606,11 +606,11 @@ const Header = () => {
                 </li>
                 <li className="relative">
                   <div className="cursor-pointer">
-                    <div className="flex flex-col items-center gap-3  hover:bg-[#bd4110] group hover:!text-white-a700">
+                    <div className="flex flex-col items-center gap-3  hover:bg-[#dc581d] group hover:!text-white-a700">
                       <p className=" text-[14px] mt-4  px-2">Support</p>
-                      <div className="group-hover:block hidden absolute text-[white] w-fit px-2 py-1 rounded-[0px_8px_8px_8px] top-full bg-[#bd4110] left-0 z-10">
+                      <div className="group-hover:block hidden absolute text-[white] w-fit px-2 py-1 rounded-[0px_8px_8px_8px] top-full bg-[#dc581d] left-0 z-10">
                         <ul className=" fi">
-                          <li className="hover:bg-[#972b00] ">
+                          <li className="hover:bg-[#be4f23] ">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -618,7 +618,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -626,7 +626,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -634,16 +634,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
-                            <Link
-                              to="/product"
-                              className="text-nowrap block py-2 px-2 !text-sm font-normal"
-                            >
-                              PhosCopper Brazing Alloys
-                            </Link>
-                          </li>
-
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -652,7 +643,16 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
+                            <Link
+                              to="/product"
+                              className="text-nowrap block py-2 px-2 !text-sm font-normal"
+                            >
+                              PhosCopper Brazing Alloys
+                            </Link>
+                          </li>
+
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -661,7 +661,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -670,7 +670,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -679,7 +679,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -688,7 +688,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -697,7 +697,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -706,7 +706,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -715,7 +715,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -731,11 +731,11 @@ const Header = () => {
                 </li>
                 <li className="relative">
                   <div className="cursor-pointer">
-                    <div className="flex flex-col items-center gap-3  hover:bg-[#bd4110] group hover:!text-white-a700">
+                    <div className="flex flex-col items-center gap-3  hover:bg-[#dc581d] group hover:!text-white-a700">
                       <p className=" text-[14px] mt-4  px-2">Applications</p>
-                      <div className="group-hover:block hidden absolute text-[white] w-fit px-2 py-1 rounded-[0px_8px_8px_8px] top-full bg-[#bd4110] left-0 z-10">
+                      <div className="group-hover:block hidden absolute text-[white] w-fit px-2 py-1 rounded-[0px_8px_8px_8px] top-full bg-[#dc581d] left-0 z-10">
                         <ul className=" fi">
-                          <li className="hover:bg-[#972b00] ">
+                          <li className="hover:bg-[#be4f23] ">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -744,7 +744,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -753,7 +753,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -762,7 +762,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -771,7 +771,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -780,7 +780,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -789,7 +789,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -798,7 +798,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -814,11 +814,11 @@ const Header = () => {
                 </li>
                 <li className="relative">
                   <div className="cursor-pointer">
-                    <div className="flex flex-col items-center gap-3  hover:bg-[#bd4110] group hover:!text-white-a700">
+                    <div className="flex flex-col items-center gap-3  hover:bg-[#dc581d] group hover:!text-white-a700">
                       <p className=" text-[14px] mt-4  px-2">Company</p>
-                      <div className="group-hover:block hidden absolute text-[white] w-fit px-2 py-1 rounded-[0px_8px_8px_8px] top-full bg-[#bd4110] left-0 z-10">
+                      <div className="group-hover:block hidden absolute text-[white] w-fit px-2 py-1 rounded-[0px_8px_8px_8px] top-full bg-[#dc581d] left-0 z-10">
                         <ul className=" fi">
-                          <li className="hover:bg-[#972b00] ">
+                          <li className="hover:bg-[#be4f23] ">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -826,7 +826,7 @@ const Header = () => {
                               PhosCopper Brazing Alloys
                             </Link>
                           </li>
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -835,7 +835,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
@@ -844,7 +844,7 @@ const Header = () => {
                             </Link>
                           </li>
 
-                          <li className="hover:bg-[#972b00] border-t border-[#e69778]">
+                          <li className="hover:bg-[#be4f23] border-t border-[#e69778]">
                             <Link
                               to="/product"
                               className="text-nowrap block py-2 px-2 !text-sm font-normal"
