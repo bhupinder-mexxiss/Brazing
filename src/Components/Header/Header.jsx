@@ -89,7 +89,7 @@ const Header = () => {
                 />
               </div>
               <p className="hidden xl:inline-block sm:text-[24px] md:text-[26px] text-[28px] font-archivo font-normal text-black-900 undefined">
-                Cooper Kraft
+                Copper Kraft
               </p>
             </div>
             <div className="flex">

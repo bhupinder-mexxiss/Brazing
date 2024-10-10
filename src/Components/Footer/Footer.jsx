@@ -43,7 +43,7 @@ const Footer = () => {
                     loading="lazy"
                   />
                   <h2 className=" sm:text-[28px] md:text-[30px] text-[32px] self-end font-archivo font-bold text-white-a700 undefined">
-                    Cooper Kraft
+                    Copper Kraft
                   </h2>
                 </div>
                 <div className="mb-2 flex flex-wrap gap-10 md:self-end self-auto">
