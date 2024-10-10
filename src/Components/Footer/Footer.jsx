@@ -8,7 +8,7 @@ import {
   X,
   YouTube,
 } from "@mui/icons-material";
-import Logo2 from "../../assets/Logo2.png";
+import Logo2 from "../../assets/logo2.png";
 
 const Footer = () => {
   return (
