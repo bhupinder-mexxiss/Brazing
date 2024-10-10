@@ -5,7 +5,7 @@ import {
 } from "@mui/icons-material";
 import React from "react";
 import { Link } from "react-router-dom";
-import Logo2 from "../../assets/Logo2.png";
+import Logo2 from "../../assets/logo2.png";
 import phoneIcon from "../../assets/icons/phone.png";
 import emailIcon from "../../assets/icons/email.png";
 import helpIcon from "../../assets/icons/help.png";
